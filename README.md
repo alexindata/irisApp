@@ -6,7 +6,7 @@ July 16, 2016
 
 ## What is the irisApp
 
-The irisApp is a simple proof-of-concept, interactive web application that identifies a iris from 3 possible species (setosa, versicolor, virginica) using the combination of 2 sepal and 2 petal measurements. It is built with the R Shiny package from Rstudio, and utilizes the R iris dataset and "random forest" machine learning algorithm. The irisApp is hosted on shinyapps.io server.
+The irisApp is a simple proof-of-concept, interactive web application that identifies an iris from 3 possible species (setosa, versicolor, virginica) using the combination of 2 sepal and 2 petal measurements. It is built with the R Shiny package from Rstudio, and utilizes the R iris dataset and "random forest" machine learning algorithm. The irisApp is hosted on shinyapps.io server.
 
 #### [Link to the irisApp.][1]
 
